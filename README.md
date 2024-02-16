@@ -1,2 +1,2 @@
-# Control_Methods-
-Different control methods for drones 
+# Control_Methods
+Different control methods for Mobile Robots.
